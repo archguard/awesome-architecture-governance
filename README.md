@@ -1,5 +1,6 @@
 # Awesome architecture governance
 
+
 ## Rule-based
 
 Cross-languages:
@@ -19,11 +20,11 @@ Cross-languages:
 
 ### Parser Generator
 
-- [ANTLR](https://github.com/antlr/antlr4)  is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. It's widely used to build languages, tools, and frameworks.
+- [ANTLR](https://github.com/antlr/antlr4) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. It's widely used to build languages, tools, and frameworks.
 
 ### Platform
 
-- Sonarqube
+- [Sonarqube](https://github.com/SonarSource/sonarqube) is an open-source platform developed by SonarSource for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells on 17 programming languages.
 
 ### Android
 
