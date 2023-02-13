@@ -36,3 +36,13 @@ Cross-languages:
 
 - [Architecture Repository](https://www.dragon1.com/applications/architecture-repository) The Architecture Repository is a software tool that stores the important architectural input and output, including Architectures themselves, the elements of which they are composed, standards, references, principles and the Governance Register. 
 
+
+## Source Code Security Audit (源代码安全审计) 
+
+更多工具：[code-analysis-audit.md](https://github.com/CaledoniaProject/awesome-opensource-security/blob/master/code-analysis-audit.md)
+
+- [昆仑镜](https://github.com/LoRexxar/Kunlun-M)，将工具重心从尽可能的发现威胁转变为提高发现漏洞的准确率以及精度。
+- [Cobra](https://github.com/FeeiCN/Cobra)  Source Code Security Audit (源代码安全审计) 是一款源代码安全审计工具，支持检测多种开发语言源代码中的大部分显著的安全问题和漏洞。
+- Java - [DependencyCheck](https://github.com/jeremylong/DependencyCheck)  OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies. 
+- Ocaml - [Semgrep](https://github.com/returntocorp/semgrep) is a fast, open-source, static analysis engine for finding bugs, detecting vulnerabilities in third-party dependencies, and enforcing code standards.
+- Scala - [Joern](https://github.com/joernio/joern) is a platform for analyzing source code, bytecode, and binary executables. It generates code property graphs (CPGs), a graph representation of code for cross-language code analysis. Code property graphs are stored in a custom graph database.
